@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 
 ---
 
 ### Example semantic segmentation of an area contained in the [ISPRS potsdam dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx):
