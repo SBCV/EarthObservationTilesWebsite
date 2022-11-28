@@ -11,5 +11,6 @@ layout: home
 <p></p>
 
 ### Example semantic segmentation of an area contained in the [Open Cities AI dataset](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/):
+![image info](images/dar_0a4c40_overview_category.jpg)
 <iframe src="qgis2web/open_cities_dar_0a4c40_subpart_leaflet_full_screen/index.html" width="100%" height="500px" style="display: block;">
 </iframe>
