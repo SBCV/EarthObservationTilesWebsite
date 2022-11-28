@@ -6,6 +6,8 @@ layout: home
 title: 
 ---
 
+Project page of Earth Observation Tiles (EOT) for deep learning.
+
 ### Example semantic segmentation of an area contained in the [ISPRS potsdam dataset](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx):
 <iframe src="qgis2web/potsdam_2_14_jgp_leaflet_full_screen/index.html" width="100%" height="500px" style="display: block;">
 </iframe>
